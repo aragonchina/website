@@ -41,7 +41,7 @@ const Navbar = props => {
 
         <a
           className="navbar-item"
-          href="http://dao.aragonchina.xyz/"
+          href="https://mainnet.aragon.org/#/aragonchina/"
           target="_blant"
         >
           Aragon China DAO
