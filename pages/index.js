@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Aragonchina</title>
+        <title>Aragon China</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link href={logo}   rel="icon"/>
       </Head>
