@@ -52,7 +52,7 @@ const Navbar = props => {
         {/* <a className="navbar-item" href="https://docs.fbfly.xyz/">
           About
         </a> */}
-        <a href="/onboarding" className="navbar-item navbar-start-now">
+        <a href="https://mainnet.aragonchina.xyz/" className="navbar-item navbar-start-now">
           {t('start-now')}
         </a>
       </div>
