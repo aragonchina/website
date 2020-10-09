@@ -10,7 +10,7 @@ const StartNow = props =>{
       <span className="start-now-text">
       {t('start-now-text')}
       </span>
-      <a href="https://mainnet.aragonchina.xyz/" className="start-now-button">
+      <a href="https://mainnet.aragonchina.org/" className="start-now-button">
       {t('start-now')}
       </a>
     </div>

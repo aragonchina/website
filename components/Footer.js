@@ -27,7 +27,7 @@ const Footer = props => {
         <a className="footer-item" href="https://github.com/aragonchina" target="_blank">
           <FontAwesomeIcon icon={faGithub} />
         </a>
-        <a className="footer-item" href="https://gov.aragonchina.xyz" target="_blank">
+        <a className="footer-item" href="https://gov.aragonchina.org" target="_blank">
           <FontAwesomeIcon icon={faDiscourse} />
         </a>
         <a className="footer-item" href="https://etherscan.io/token/tokenholderchart/0xbbe319b73744db9d54f5d29df7d8256b7e43995c" target="_blank">
